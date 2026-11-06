@@ -1,6 +1,6 @@
 # Shivam Saurabh
 
-### AI Trainer · LLM Evaluation Specialist · Full-Stack Developer
+### AI Engineer at Asana, Inc. · LLM Evaluation Specialist · Full-Stack Developer
 
 Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/shivam-saurabh--/) · [Email](mailto:shivamsaurabh201@gmail.com)
 
@@ -8,15 +8,8 @@ I am an AI and software professional focused on **LLM evaluation, prompt enginee
 
 ## Professional experience
 
-### Freelance Designer & Developer — Eonrize Forge  
-*January 2026 – Present*
-
-- Deliver freelance software and game-design services for client projects.
-- Contribute to product design, technical implementation, project scoping, and client communication.
-- Support delivery across application-development and game-design work.
-
-### AI Trainer — Asana  
-*September 2024 – January 2026*
+### AI Engineer — Asana, Inc.  
+*September 2024 – Present*
 
 - Evaluated **5+ AI/ML model outputs daily** against task instructions, quality criteria, and response guidelines.
 - Refined prompts and reviewed responses for relevance, consistency, and instruction adherence.
