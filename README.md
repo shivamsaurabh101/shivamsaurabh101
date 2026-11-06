@@ -8,12 +8,12 @@ I am an AI and software professional focused on **LLM evaluation, prompt enginee
 
 ## Professional experience
 
-### Product Delivery — Eonrize Forge  
+### Freelance Designer & Developer — Eonrize Forge  
 *January 2026 – Present*
 
-- Support product planning, technical execution, client communication, and delivery for software and game-design services.
-- Coordinate development and delivery activities, align priorities, and review implementation decisions.
-- Contribute to service delivery, project scoping, client communication, and timeline management.
+- Deliver freelance software and game-design services for client projects.
+- Contribute to product design, technical implementation, project scoping, and client communication.
+- Support delivery across application-development and game-design work.
 
 ### AI Trainer — Asana  
 *September 2024 – January 2026*
