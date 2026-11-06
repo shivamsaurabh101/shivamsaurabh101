@@ -1,19 +1,19 @@
 # Shivam Saurabh
 
-### AI Trainer · LLM Evaluation Specialist · Full-Stack Developer · Founder & Director at Eonrize Forge
+### AI Trainer · LLM Evaluation Specialist · Full-Stack Developer
 
 Bengaluru, India · [LinkedIn](https://www.linkedin.com/in/shivam-saurabh--/) · [Email](mailto:shivamsaurabh201@gmail.com)
 
-I am an AI and software professional focused on **LLM evaluation, prompt engineering, browser automation, and full-stack product development**. I turn detailed requirements into reliable workflows, assess AI outputs against defined quality standards, and lead end-to-end delivery for software and game-design services through Eonrize Forge.
+I am an AI and software professional focused on **LLM evaluation, prompt engineering, browser automation, and full-stack product development**. I turn detailed requirements into reliable workflows, assess AI outputs against defined quality standards, and support end-to-end delivery for software and game-design services.
 
 ## Professional experience
 
-### Founder & Director — Eonrize Forge  
+### Product Delivery — Eonrize Forge  
 *January 2026 – Present*
 
-- Lead a software and game-design studio across product planning, technical execution, client communication, and delivery.
-- Coordinate a team of **3** across development and delivery, align priorities, and review implementation decisions.
-- Delivered **3 services** to date while managing scopes, timelines, and ongoing client work.
+- Support product planning, technical execution, client communication, and delivery for software and game-design services.
+- Coordinate development and delivery activities, align priorities, and review implementation decisions.
+- Contribute to service delivery, project scoping, client communication, and timeline management.
 
 ### AI Trainer — Asana  
 *September 2024 – January 2026*
